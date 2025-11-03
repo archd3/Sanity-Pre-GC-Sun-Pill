@@ -1,0 +1,18 @@
+<ModifierDefs>
+	<List>
+		<Modifier Name="Fuzen_Ganoderma">
+			<DisplayName>Ganoderma +</DisplayName>
+			<MaxStack>0</MaxStack>
+			<Duration>-1</Duration>
+			<Color>813BA8</Color>
+			<Sync>1</Sync>
+			<Properties>
+				<li Name="NpcLingMaxValue" AddV="1000" />
+			</Properties>
+		</Modifier>
+	</List>
+</ModifierDefs>
+
+
+
+    

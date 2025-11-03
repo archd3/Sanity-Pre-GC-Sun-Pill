@@ -1,0 +1,13 @@
+﻿<ModifierDefs>
+  <List>
+    <Modifier Name="Fuzen_PrimevalFlesh">
+      <DisplayName>Primeval Flesh +</DisplayName>
+			<MaxStack>0</MaxStack>
+			<Duration>-1</Duration>
+			<Sync>1</Sync>
+			<Properties>
+        <li Name="AbilityLvAddV" AddV="-35" />
+			</Properties>
+		</Modifier>
+	</List>
+</ModifierDefs>

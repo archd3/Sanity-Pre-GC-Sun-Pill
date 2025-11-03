@@ -1,0 +1,18 @@
+<ModifierDefs>
+	<List>
+		<Modifier Name="Fuzen_RedGinseng">
+			<DisplayName>Red Ginseng +</DisplayName>
+			<MaxStack>0</MaxStack>
+			<Duration>-1</Duration>
+			<Color>821E37</Color>
+			<Sync>1</Sync>
+			<Properties>
+				<li Name="NpcLingMaxValue" AddV="1000" />
+			</Properties>
+		</Modifier>
+	</List>
+</ModifierDefs>
+
+
+
+    

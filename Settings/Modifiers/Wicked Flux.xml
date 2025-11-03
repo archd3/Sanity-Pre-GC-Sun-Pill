@@ -1,0 +1,13 @@
+﻿<ModifierDefs>
+	<List>
+		<Modifier Name="Fuzen_WickedFlux">
+			<DisplayName>Wicked Flux +</DisplayName>
+			<MaxStack>0</MaxStack>
+			<Duration>-1</Duration>
+			<Sync>1</Sync>
+			<Properties>
+				<li Name="NpcLingMaxValue" AddP="6.25" />
+			</Properties>
+		</Modifier>
+	</List>
+</ModifierDefs>

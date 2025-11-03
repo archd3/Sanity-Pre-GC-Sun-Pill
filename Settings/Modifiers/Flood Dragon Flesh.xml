@@ -1,0 +1,13 @@
+﻿<ModifierDefs>
+	<List>
+		<Modifier Name="Fuzen_FloodDragonFlesh">
+			<DisplayName>Ganoderma +</DisplayName>
+			<MaxStack>0</MaxStack>
+			<Duration>-1</Duration>
+			<Sync>1</Sync>
+			<Properties>
+				<li Name="NpcLingMaxValue" BAddV="435" />
+			</Properties>
+		</Modifier>
+	</List>
+</ModifierDefs>

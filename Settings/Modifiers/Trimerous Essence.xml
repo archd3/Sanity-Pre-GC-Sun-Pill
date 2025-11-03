@@ -1,0 +1,13 @@
+﻿<ModifierDefs>
+	<List>
+		<Modifier Name="Fuzen_TrimerousEssence">
+			<DisplayName>Trimerous Essence +</DisplayName>
+			<MaxStack>0</MaxStack>
+			<Duration>-1</Duration>
+			<Sync>1</Sync>
+			<Properties>
+				<li Name="NpcLingMaxValue" AddV="1150" />
+			</Properties>
+		</Modifier>
+	</List>
+</ModifierDefs>

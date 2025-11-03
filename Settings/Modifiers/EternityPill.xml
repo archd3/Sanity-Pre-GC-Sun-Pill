@@ -1,0 +1,14 @@
+<ModifierDefs>
+	<List>
+		<Modifier Name="Fuzen_EternityPill">
+			<DisplayName>Eternity Pill +</DisplayName>
+			<MaxStack>0</MaxStack>
+			<Duration>-1</Duration>
+			<Sync>1</Sync>
+      <BaseFive>2.15,2.15,2.15,2.15,2.15</BaseFive>
+			<Properties>
+				<li Name="MaxAge" AddV="1080"/>
+			</Properties>
+		</Modifier>
+	</List>
+</ModifierDefs>

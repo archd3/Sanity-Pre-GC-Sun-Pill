@@ -1,0 +1,13 @@
+﻿<ModifierDefs>
+	<List>
+		<Modifier Name="Fuzen_JunkPill">
+			<DisplayName>Junk Pill +</DisplayName>
+			<MaxStack>0</MaxStack>
+			<Duration>-1</Duration>
+			<Sync>1</Sync>
+			<Properties>
+				<li Name="NpcLingMaxValue" BAddP="0.175" />
+			</Properties>
+		</Modifier>
+	</List>
+</ModifierDefs>

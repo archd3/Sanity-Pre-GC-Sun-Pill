@@ -1,0 +1,14 @@
+<ModifierDefs>
+  <List>
+    <Modifier Name="Fuzen_BanePill">
+      <DisplayName>Bane Pill +</DisplayName>
+      <MaxStack>0</MaxStack>
+      <Duration>-1</Duration>
+      <Sync>1</Sync>
+      <BaseFive>3.5,3.5,3.5,3.5,3.5</BaseFive>
+      <Properties>
+        <li Name="MaxAge" AddV="-200" />
+      </Properties>
+    </Modifier>
+  </List>
+</ModifierDefs>
